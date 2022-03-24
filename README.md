@@ -4,4 +4,4 @@ Desktop version:
 
 Mobile version:
 
-![alt_text](https://gyazo.com/87917727594220408fbe26679c1680aa.jpg)
+![alt_text](https://gyazo.com/87917727594220408fbe26679c1680aa.png)
